@@ -1,11 +1,15 @@
-![SkyGlance Logo](brand/sglogo-blank.png)
+![SkyGlance Logo](brand/sglogo-circle.png)
+
+# Web app description:
 
 This basic web app fetches information about current and upcoming weather in your area from a weather API. You can input a city manually or allow GPS access to pinpoint your location. Currently supports polish language only. Hosted on skyglance.pl right now, but that may change.
 
-# User Interface:
+# User interface:
 
 ![App Screenshot](brand/thumbnail.png)
 
-# Hosted on:
+# Running the project:
 
 http://skyglance.pl
+
+![SkyGlance Icon](brand/sgicon-circle.png)
