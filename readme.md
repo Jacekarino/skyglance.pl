@@ -10,8 +10,9 @@ This basic web app fetches information about current and upcoming weather in you
 
 # Running the project:
 
-http://skyglance.pl
-OR install android app
-skyglance.apk
+https://skyglance.jkowalczyk357.workers.dev/
+
+Temporary deployment.
+Alternative: open index.html with your browser of choice.
 
 ![SkyGlance Icon](brand/sgicon-circle.png)
